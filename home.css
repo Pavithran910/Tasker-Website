@@ -336,7 +336,7 @@ body{
     transform: background-color 1.5s, color 0.3s;
 }
 .addtask:hover{
-    background-color: blueviolet;
+    background-color: royalblue;
     color: white;
 }
 .addtaskimg img{
